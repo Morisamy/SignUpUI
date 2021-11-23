@@ -1,0 +1,10 @@
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\bin\Debug\LoginUI.exe.config
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\bin\Debug\LoginUI.exe
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\bin\Debug\LoginUI.pdb
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.csprojResolveAssemblyReference.cache
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.Form1.resources
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.Properties.Resources.resources
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.GenerateResource.Cache
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.exe
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\LoginUI\LoginUI\obj\Debug\LoginUI.pdb
