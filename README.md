@@ -39,8 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-SignUp UI
-
+a SignUp Form using a better UI enhancements
 
 : `Morisamy` , `SignUpUI`
 
